@@ -18,7 +18,7 @@ Atualmente, estudo lógica de programação com **Portugol Studio** e estou semp
 ## 🌐 Redes sociais
 
 <div align="left">
-  <a href="https://youtube.com" target="_blank">
+  <a href="https://www.youtube.com/channel/UCqrhwqPSnm1DLtqdAtu4zMQ/videos" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" />
   </a>
   <a href="https://instagram.com" target="_blank">
